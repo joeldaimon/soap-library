@@ -32,27 +32,6 @@ todavía testeando!!
 
 ---
 
-## 📁 Estructura del Proyecto
-
-soap-library/
-├── src/
-│ ├── main/
-│ │ ├── java/com/example/soap_library/
-│ │ │ ├── endpoint/LibraryEndpoint.java
-│ │ │ ├── service/LibraryService.java
-│ │ │ ├── service/impl/LibraryServiceImpl.java
-│ │ │ ├── config/WebServiceConfig.java
-│ │ │ └── SoapLibraryApplication.java
-│ │ └── resources/
-│ │ ├── certs/
-│ │ │ ├── server-keystore.p12
-│ │ │ ├── server-truststore.p12
-│ │ │ ├── client-keystore.p12
-│ │ │ └── client-truststore.p12
-│ │ └── application.properties
-├── pom.xml
-└── README.md
-
 ## ⚙️ Configuración SSL (application.properties)
 
 ### properties
